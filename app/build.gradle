@@ -43,4 +43,5 @@ dependencies {
     compile "com.github.chrisbanes:PhotoView:${libs.PhotoView}"
 
     //第三方库 end
+    compile 'com.android.support.constraint:constraint-layout:1.0.2'
 }
